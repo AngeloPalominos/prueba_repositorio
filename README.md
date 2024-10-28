@@ -1,2 +1,2 @@
-# prueba_repositorio
-creacion de primer repositorio
+#Display the output
+print ('New Python file')
